@@ -1,0 +1,61 @@
+body {
+  margin: 0;
+  padding: 20px;
+  background: #f2f2f2;
+  color: #222;
+  font-family: Tahoma, Arial, sans-serif;
+}
+
+main {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background: #fff;
+}
+
+h1,
+p {
+  text-align: center;
+}
+
+label {
+  display: block;
+  margin-top: 12px;
+}
+
+input,
+select,
+button {
+  width: 100%;
+  margin-top: 6px;
+  padding: 9px;
+  border: 1px solid #ccc;
+  font: inherit;
+}
+
+button {
+  margin-top: 16px;
+  background: #444;
+  color: #fff;
+  cursor: pointer;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  padding: 9px;
+  border: 1px solid #ccc;
+  text-align: right;
+}
+
+th {
+  background: #eee;
+}
+
+a {
+  color: #333;
+}
